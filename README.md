@@ -1,2 +1,2 @@
 # MOD-BIO
-Biological Modelling Repository.
+Model repository. To be added, edited and finalised before commiting to main branch.
